@@ -22,6 +22,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "experiments": {
+      "baseUrl": "/nao-pode-app"
+    },
     "extra": {
       "eas": {
         "projectId": "5f991345-63c1-41d4-b7cc-e5824fd03522"
